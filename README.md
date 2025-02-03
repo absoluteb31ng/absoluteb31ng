@@ -10,8 +10,8 @@
   - Este proyecto me permitió aplicar mis conocimientos en redes y ciberseguridad.
 
 - **Shell en ASM:**
-  -Desarrolle una shell interactiva usando ASM y Lenguaje C para hacer una terminal
-  -Este proyecto permite un entedimiento basico sobre como se hacen llamadas de una rachivo en C hacia uno en Assembly
+  - Desarrolle una shell interactiva usando ASM y Lenguaje C para hacer una terminal
+  - Este proyecto permite un entedimiento basico sobre como se hacen llamadas de una rachivo en C hacia uno en Assembly
 
 ## Habilidades
 - **Python:** Dominio avanzado en el lenguaje de programación Python.
