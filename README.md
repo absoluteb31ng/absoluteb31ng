@@ -13,10 +13,11 @@
   - Desarrolle una shell interactiva usando ASM y Lenguaje C para hacer una terminal
   - Este proyecto permite un entedimiento basico sobre como se hacen llamadas de una rachivo en C hacia uno en Assembly
 
--**Pagina de consultoria en ciberseguridad**
+- **Pagina de consultoria en ciberseguridad**
   - Este proyecto esta en desarrollo
   - Algunas de sus innovaciones es que sera mantenida por la comunidad y podran recibir consultorias web por personas que cumplan los requisitos que tu empresa esta pidiendo
-  - Cualquier persona puede aplicar para un trabajo, ya sea solo temporal o obtener un puesto permanente, aparte de ayudar a completar tu cv para que sea mas actrativo para las empresas
+  - Cualquier persona puede aplicar para un trabajo, ya sea solo temporal o obtener un puesto permanente, aparte de ayudar a completar tu cv para que sea mas actrativo para las empresas 
+ 
 ## Habilidades
 - **Python:** Dominio avanzado en el lenguaje de programación Python.
 - **Redes:** Conocimientos extensos en el diseño, implementación y mantenimiento de redes.
